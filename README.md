@@ -3,6 +3,7 @@
 
 The Asteroid Belt is a theme suite for Zorin OS Pro/core and lite, but should work on any distro that uses Gnome 3.38 and current version of XFCE.
 The icon set is based loosely on Papirus and the GTK/Gnome-shell theme is a mod of Layan by Vince Liuice.
+
 The suite contain 1) Icon theme set 2) GTK/Gnome-Shell theme 3) Plank Theme.
 
 
